@@ -18,17 +18,6 @@ Personally accountable and reliable with deadlines, comfortable working both ind
 
 <br>
 
-## ⚡ Technologies & Concepts
-
-- REST APIs
-- JWT Authentication
-- Entity Framework Core
-- AI Integration (Google Gemini)
-- OOP
-- Design Patterns
-- Clean Architecture
-
-<br>
 
 ## 🛠️ Tech Stack
 
@@ -72,6 +61,17 @@ Personally accountable and reliable with deadlines, comfortable working both ind
 
 <br>
 
+## ⚡ Technologies & Concepts
+
+- REST APIs
+- JWT Authentication
+- Entity Framework Core
+- AI Integration (Google Gemini)
+- OOP
+- Design Patterns
+- Clean Architecture
+
+<br>
 ## 🚀 Featured Projects
 
 ### 🥗 [RightBite](https://github.com/orasher2281-svg/RightBite)
