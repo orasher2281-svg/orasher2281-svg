@@ -72,6 +72,7 @@ Personally accountable and reliable with deadlines, comfortable working both ind
 - Clean Architecture
 
 <br>
+
 ## 🚀 Featured Projects
 
 ### 🥗 [RightBite](https://github.com/orasher2281-svg/RightBite)
